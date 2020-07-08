@@ -1,27 +1,35 @@
-# Personal-User-Manual-Template
+# Personal User Manual Template
 
-Welcome to the Personal User Manual Template! Feel free to fork this repo to get started making your own. You may want to read The Pitch/Anti-Pitch for Personal User Manuals.
+Welcome to the Personal User Manual Template! Feel free to fork this repository to get started making your own. You may want to read The Pitch/Anti-Pitch for Personal User Manuals first.
 
-> Can I see an example? 
-- [ ] link to example 
+### Serving Your Personal User Manual as a Website
 
-> How do I host my own?
-- [ ] github pages README.
+[Example](https://camin-mccluskey.github.io/Personal-User-Manual)
+
+1. Fork this repository into your own Github profile.
+2. Change the repository name to `Personal-User-Manual`
+3. Edit the sections below to make it uniquely yours. Remember to delete everything inside the the `<details>` tags to remove the help tips.
+4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
+5. Visit `https://<your-github-username>.github.io/Personal-User-Manual` to see your work!
 
 ## About Me
-       
+
+
 <details>
     <summary>Tips</summary>
 Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
 </details>
 
 ## How to Contact Me
+
+
 <details>
     <summary>Tips</summary>
 Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
 </details>
 
 ## Preferred Working Style
+
 
 <details>
     <summary>Tips</summary>
@@ -30,12 +38,14 @@ Recommended Section: This section is pretty open to interpretation. You might wa
 
 ## What Motivates Me
 
+
 <details>
     <summary>Tips</summary>
 Recommended Section: Think about what gives you energy in work. What, about the work that you do, motivates you to push yourself? This doesn't need to be inspirational, it can be as simple as you enjoying seeing the results. The purpose of this section is to help your line manager and squad members to gain a picture of the work each person finds meaningful and interesting.
 </details>
 
 ## What Demotivates Me
+
 
 <details>
     <summary>Tips</summary>
@@ -44,12 +54,14 @@ Recommended Section: The flip side of the above. Everyone has parts of their wor
 
 ## My Values (and what I value in others)
 
+
 <details>
     <summary>Tips</summary>
 Recommended Section: Accepting that we all treat each other with empathy, care and respect as a baseline. What values do you hold in the highest regard? What traits make you admire a person?
 </details>
 
 ## My Blind Spots
+
 
 <details>
     <summary>Tips</summary>
@@ -58,12 +70,14 @@ Recommended Section: Everyone needs help sometimes. This is a good section to li
 
 ## My Pet Peeves
 
+
 <details>
     <summary>Tips</summary>
 Optional Section: It might be tempting to use this section to vent, that's absolutely fine but the more constructive the better. If there are simple things people can reasonably avoid doing, then list them here. Bear in mind that you will also need to also read your squad members' pet peeves section, it's a 2 way street.
 </details>
 
 ## Other
+
 
 <details>
     <summary>Tips</summary>
