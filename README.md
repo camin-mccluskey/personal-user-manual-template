@@ -6,11 +6,11 @@ Welcome to the Personal User Manual Template! Feel free to fork this repository 
 
 [Example](https://camin-mccluskey.github.io/Personal-User-Manual)
 
-1. Fork this repository into your own Github profile.
-2. Change the repository name to `Personal-User-Manual`
+1. Click "Use this template" above to create a copy in your Github space. For help with this see [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
+2. Change the repository name to `personal-user-manual`.
 3. Edit the sections below to make it uniquely yours. Remember to delete everything inside the the `<details>` tags to remove the help tips.
 4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
-5. Visit `https://<your-github-username>.github.io/Personal-User-Manual` to see your work!
+5. Visit `https://<your-github-username>.github.io/personal-User-manual` to see your work!
 
 ## About Me
 
