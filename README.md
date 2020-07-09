@@ -10,7 +10,7 @@ Welcome to the Personal User Manual Template! Feel free to fork this repository 
 2. Change the repository name to `personal-user-manual`.
 3. Edit the sections below to make it uniquely yours. Remember to delete everything inside the the `<details>` tags to remove the help tips.
 4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
-5. Visit `https://<your-github-username>.github.io/personal-User-manual` to see your work!
+5. Visit `https://<your-github-username>.github.io/personal-user-manual` to see your work!
 
 ## About Me
 
